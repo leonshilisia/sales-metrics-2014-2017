@@ -20,10 +20,19 @@ Microssoft Excel
    - Technology products had a healthy profit margin of 19%.
    - Office supplies followed with a 16% margin.
    - Furniture had the lowest margin at 1%.
-1. First item
-   - Sub-item 1
-   - Sub-item 2
-2. Second item
+  
+3. Product Performance:
+   - High Revenue Sub-Categories:
+     - Phones, chairs, and storage products contributed significantly to revenue.
+   - High Profit Sub-Categories:
+     - Copiers, accessories, and phones generated the highest profits.
+    
+4. Sales Trends:
+   - Quantity sold increased each quarter but dropped at the start of every new quarter.
+   - Prices exhibited volatility and a negative overall trend.
+
+
+
    
 
 
