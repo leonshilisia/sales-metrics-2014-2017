@@ -30,6 +30,23 @@ Microssoft Excel
 4. Sales Trends:
    - Quantity sold increased each quarter but dropped at the start of every new quarter.
    - Prices exhibited volatility and a negative overall trend.
+  
+
+# Recommendations 
+1. Pricing Strategy:
+   - Action: Analyze price volatility and adjust pricing strategies.
+   - Rationale: Stable pricing can improve customer trust and profitability.
+  
+2. Profit Margin Optimization:
+   - Action: Explore cost-saving measures for Office supply and Furniture products.
+   - Rationale: Boosting profit margins in technology can positively impact overall profitability.
+  
+3. Product Strategy:
+   - Action: Focus on high-revenue sub-categories (phones, chairs, storage).
+   - Rationale: Allocate resources strategically to maximize revenue from these product lines.
+
+
+
 
 
 
