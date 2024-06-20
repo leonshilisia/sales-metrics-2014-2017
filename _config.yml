@@ -1,5 +1,7 @@
 title: Data Analysis Portfolio
+description: Microsoft Excel 
 logo: C:\Users\Admin\OneDrive\Pictures\logos\png
-remote_theme: pages-themes/midnight@v0.2.0
+show_downloads: True
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
