@@ -15,11 +15,11 @@ Microssoft Excel
 
 # Findings 
 1. Sales and Revenue Growth:
-               -Over the past 2 years, sales have increased by 20%, and revenue has grown by 14%.
+               - Over the past 2 years, sales have increased by 20%, and revenue has grown by 14%.
 2. Profit Margins by Product Category:
-  -Technology products had a healthy profit margin of 19%.
-  -Office supplies followed with a 16% margin.
-  -Furniture had the lowest margin at 1%.
+  - Technology products had a healthy profit margin of 19%.
+  - Office supplies followed with a 16% margin.
+  - Furniture had the lowest margin at 1%.
    
 
 
