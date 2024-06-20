@@ -1,5 +1,4 @@
-# Data Analysis Portfolio
-Microssoft Excel
+
 
 
 # Store Sales Analysis(2014-2017) 
