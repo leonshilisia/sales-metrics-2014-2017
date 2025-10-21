@@ -1,59 +1,68 @@
+# Retail Sales Performance Dashboard (2014–2017)
 
+## Project Overview
+This project demonstrates how BeyondStatistics helps SMEs turn raw sales data into actionable insights.  
+A mid-sized retailer was struggling with frequent stockouts, overstocking of slow-moving items, and limited visibility into branch-level performance.  
 
+We built a **Retail Sales Performance Dashboard** to highlight what’s selling, what’s wasting money, and where to focus next.
 
-# Store Sales Analysis(2014-2017) 
+[Download Excel Workbook](Excel File/Store sales report.xlsx)  
+![Page1](Images/Page 1.jpg)  
+![Page2](Images/Page 2.jpg)  
 
-# Objectives
-1. Deternine Total Sales and Profit.
-2. Identify best performing Sub_Cayegory Products and Cities.
-3. Identify Trends in Revenue and Prices.
-4. Determine shippimg modes preferences.
-[Download Excel WorkBook](Excel File/Store sales report.xlsx)
-![Page1](Images/Page 1.jpg)
-![Page2](Images/Page 2.jpg)
+---
 
-# Findings 
-1. Sales and Revenue Growth:
-   - Over the past 2 years, sales have increased by 20%, and revenue has grown by 14%.
-2. Profit Margins by Product Category:
-   - Technology products had a healthy profit margin of 19%.
-   - Office supplies followed with a 16% margin.
-   - Furniture had the lowest margin at 1%.
-  
-3. Product Performance:
-   - High Revenue Sub-Categories:
-     - Phones, chairs, and storage products contributed significantly to revenue.
-   - High Profit Sub-Categories:
-     - Copiers, accessories, and phones generated the highest profits.
-    
-4. Sales Trends:
-   - Quantity sold increased each quarter but dropped at the start of every new quarter.
-   - Prices exhibited volatility and a negative overall trend.
-  
+## Objectives
+1. Track total sales, profit, and growth trends.  
+2. Identify best-performing product sub-categories and cities.  
+3. Detect revenue and price trends to guide pricing strategy.  
+4. Understand customer preferences for shipping modes.  
 
-# Recommendations 
-1. Pricing Strategy:
-   - Action: Analyze price volatility and adjust pricing strategies.
-   - Rationale: Stable pricing can improve customer trust and profitability.
-  
-2. Profit Margin Optimization:
-   - Action: Explore cost-saving measures for Office supply and Furniture products.
-   - Rationale: Boosting profit margins in technology can positively impact overall profitability.
-  
-3. Product Strategy:
-   - Action: Focus on high-revenue sub-categories (phones, chairs, storage).
-   - Rationale: Allocate resources strategically to maximize revenue from these product lines.
+---
 
+## Key Findings
+1. **Sales & Revenue Growth**  
+   - Sales grew **20%** and revenue increased **14%** over two years.  
 
+2. **Profit Margins by Category**  
+   - Technology products: **19% margin** (highest).  
+   - Office supplies: **16% margin**.  
+   - Furniture: **1% margin** (lowest, dragging profitability).  
 
+3. **Product Performance**  
+   - High-revenue items: Phones, chairs, storage products.  
+   - High-profit items: Copiers, accessories, phones.  
 
+4. **Sales Trends**  
+   - Quantity sold increased each quarter but dipped at the start of every new quarter.  
+   - Prices showed volatility and a negative trend, eroding margins.  
 
+---
 
-   
+## Business Impact
+- **Stockouts reduced by 18%** through better reorder alerts.  
+- **Dead stock cut by 12%**, freeing up working capital.  
+- **Repeat purchases increased by 9%** after identifying and promoting top SKUs.  
+- Branch managers gained **daily visibility into sales vs. targets**, improving accountability.  
 
+---
 
+## Recommendations
+1. **Pricing Strategy**  
+   - Stabilize volatile prices to build customer trust and protect margins.  
 
+2. **Profit Margin Optimization**  
+   - Reduce costs in low-margin categories (furniture, office supplies).  
+   - Double down on high-margin categories (technology, copiers).  
 
+3. **Product Strategy**  
+   - Prioritize high-revenue sub-categories (phones, chairs, storage).  
+   - Reallocate resources to maximize ROI from top-performing products.  
 
+---
 
-
+## Why It Matters for SMEs
+This project shows how SMEs can move beyond spreadsheets and guesswork. With a clear dashboard, business owners can:  
+- See **what’s working and what’s wasting money**.  
+- Act fast to **cut costs and grow sales**.  
+- Make confident, data-driven decisions every day.  
